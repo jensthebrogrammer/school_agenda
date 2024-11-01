@@ -1,0 +1,60 @@
+.button_navbar:hover{
+  background-color: lightgray;
+}
+
+.button_navbar{
+  background-color: white;
+  border: none;
+  width: 100px;
+  height: 50px;
+}
+
+.navbar{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.groen{
+  background-color: green;
+}
+
+.blauw{
+  background-color: blue;
+  color: white;
+}
+
+.paars{
+  background-color: purple;
+}
+
+.rood{
+  background-color: red;
+}
+
+.lessonGrid_button{
+  border: none;
+  width: 150px;
+  height: 90px;
+}
+
+.lessonsGrid{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.groen{
+  background-color: green;
+}
+
+.niks{
+  opacity: 0;
+}
+
+.huistaak{
+  border: none;
+  background-color: yellow;
+  height: 10px;
+  width: 20px;
+}

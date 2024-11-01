@@ -1,0 +1,16 @@
+.showLesson_dateTime{
+  font-style: italic;
+}
+
+.showLesson_date{
+  display: inline-block;
+  padding-right: 30px;
+}
+
+.showLesson_time{
+  display: inline-block;
+}
+
+.showLesson_groen{
+  color: green;
+}
